@@ -1,0 +1,235 @@
+microorganism,extraction solvent,pH,conc(M),freeze-thaw cycles,purity
+sp,sodium phosphate,6,0.5,1,0.27
+sp,sodium phosphate,6.5,0.5,1,0.67
+sp,sodium phosphate,7,0.5,1,0.3
+sp,tris-hcl,7,1,1,0.62
+sp,tris-hcl,7.5,1,1,0.57
+sp,tris-hcl,8,1,1,0.45
+sp,deionized water,7,0,1,0.22
+sp,tap water,7,,1,0.41
+sp,CaCl2,7,0.1,1,0.92
+sp,sodium phosphate,6,0.5,2,0.78
+sp,sodium phosphate,6.5,0.5,2,0.72
+sp,sodium phosphate,7,0.5,2,0.71
+sp,tris-hcl,7,1,2,0.47
+sp,tris-hcl,7.5,1,2,0.44
+sp,tris-hcl,8,1,2,0.38
+sp,deionized water,7,,2,0.15
+sp,tap water,7,,2,0.27
+sp,CaCl2,7,0.1,2,0.66
+sp,sodium phosphate,6,0.5,3,0.77
+sp,sodium phosphate,6.5,0.5,3,0.73
+sp,sodium phosphate,7,0.5,3,0.64
+sp,tris-hcl,7,1,3,0.45
+sp,tris-hcl,7.5,1,3,0.41
+sp,tris-hcl,8,1,3,0.34
+sp,deionized water,7,,3,0.13
+sp,tap water,7,,3,0.22
+sp,CaCl2,7,0.1,3,0.71
+Phormidium sp.,sodium phosphate,6,0.5,1,0.73
+Phormidium sp.,sodium phosphate,6.5,0.5,1,0.61
+Phormidium sp.,sodium phosphate,7,0.5,1,0.47
+Phormidium sp.,tris-hcl,7,1,1,0.5
+Phormidium sp.,tris-hcl,7.5,1,1,0.49
+Phormidium sp.,tris-hcl,8,1,1,0.49
+Phormidium sp.,deionized water,7,,1,0.68
+Phormidium sp.,tap water,7,,1,0.77
+Phormidium sp.,CaCl2,7,0.1,1,1.5
+Phormidium sp.,sodium phosphate,6,0.5,2,0.57
+Phormidium sp.,sodium phosphate,6.5,0.5,2,0.52
+Phormidium sp.,sodium phosphate,7,0.5,2,0.55
+Phormidium sp.,tris-hcl,7,1,2,0.43
+Phormidium sp.,tris-hcl,7.5,1,2,0.44
+Phormidium sp.,tris-hcl,8,1,2,0.39
+Phormidium sp.,deionized water,7,,2,0.59
+Phormidium sp.,tap water,7,,2,0.59
+Phormidium sp.,CaCl2,7,0.1,2,1.39
+Phormidium sp.,sodium phosphate,6,0.5,3,0.75
+Phormidium sp.,sodium phosphate,6.5,0.5,3,0.67
+Phormidium sp.,sodium phosphate,7,0.5,3,0.61
+Phormidium sp.,tris-hcl,7,1,3,0.41
+Phormidium sp.,tris-hcl,7.5,1,3,0.4
+Phormidium sp.,tris-hcl,8,1,3,0.37
+Phormidium sp.,deionized water,7,,3,0.7
+Phormidium sp.,tap water,7,,3,0.65
+Phormidium sp.,CaCl2,7,0.1,3,1.46
+Chlorogloeopsis fritschii,sodium phosphate,6,0.5,1,0.02
+Chlorogloeopsis fritschii,sodium phosphate,6.5,0.5,1,0.22
+Chlorogloeopsis fritschii,sodium phosphate,7,0.5,1,0.1
+Chlorogloeopsis fritschii,tris-hcl,7,1,1,0.8
+Chlorogloeopsis fritschii,tris-hcl,7.5,1,1,0.67
+Chlorogloeopsis fritschii,tris-hcl,8,1,1,0.64
+Chlorogloeopsis fritschii,deionized water,7,,1,0.21
+Chlorogloeopsis fritschii,CaCl2,7,0.1,1,0.17
+Chlorogloeopsis fritschii,sodium phosphate,6,0.5,2,0.08
+Chlorogloeopsis fritschii,sodium phosphate,6.5,0.5,2,0.4
+Chlorogloeopsis fritschii,sodium phosphate,7,0.5,2,0.39
+Chlorogloeopsis fritschii,tris-hcl,7,1,2,0.59
+Chlorogloeopsis fritschii,tris-hcl,7.5,1,2,0.47
+Chlorogloeopsis fritschii,tris-hcl,8,1,2,0.38
+Chlorogloeopsis fritschii,deionized water,7,,2,0.37
+Chlorogloeopsis fritschii,CaCl2,7,0.1,2,0.5
+Chlorogloeopsis fritschii,sodium phosphate,6,0.5,3,0.44
+Chlorogloeopsis fritschii,sodium phosphate,6.5,0.5,3,0.71
+Chlorogloeopsis fritschii,sodium phosphate,7,0.5,3,0.6
+Chlorogloeopsis fritschii,tris-hcl,7,1,3,0.5
+Chlorogloeopsis fritschii,tris-hcl,7.5,1,3,0.41
+Chlorogloeopsis fritschii,tris-hcl,8,1,3,0.3
+Chlorogloeopsis fritschii,deionized water,7,,3,0.61
+Chlorogloeopsis fritschii,CaCl2,7,0.1,3,0.8
+sp,CaCl2,7,0.1,4,0.69
+sp,sodium phosphate,6,0.5,4,0.74
+sp,sodium phosphate,6.5,0.5,4,0.61
+sp,sodium phosphate,7,0.5,4,0.6
+sp,tris-hcl,7,1,4,0.44
+sp,tris-hcl,7.5,1,4,0.37
+sp,tris-hcl,8,1,4,0.28
+sp,deionized water,7,,4,0.12
+sp,tap water,7,,4,0.17
+sp,CaCl2,7,0.1,5,0.61
+sp,sodium phosphate,6,0.5,5,0.75
+sp,sodium phosphate,6.5,0.5,5,0.61
+sp,sodium phosphate,7,0.5,5,0.59
+sp,tris-hcl,7,1,5,0.42
+sp,tris-hcl,7.5,1,5,0.35
+sp,tris-hcl,8,1,5,0.24
+sp,deionized water,7,,5,0.11
+sp,tap water,7,,5,0.13
+sp,CaCl2,7,0.1,6,0.58
+sp,sodium phosphate,6,0.5,6,0.7
+sp,sodium phosphate,6.5,0.5,6,0.59
+sp,sodium phosphate,7,0.5,6,0.54
+sp,tris-hcl,7,1,6,0.41
+sp,tris-hcl,7.5,1,6,0.33
+sp,tris-hcl,8,1,6,0.22
+sp,deionized water,7,,6,0.11
+sp,tap water,7,,6,0.12
+sp,CaCl2,7,0.1,7,0.54
+sp,sodium phosphate,6,0.5,7,0.67
+sp,sodium phosphate,6.5,0.5,7,0.59
+sp,sodium phosphate,7,0.5,7,0.54
+sp,tris-hcl,7,1,7,0.36
+sp,tris-hcl,7.5,1,7,0.29
+sp,tris-hcl,8,1,7,0.19
+sp,deionized water,7,,7,0.11
+sp,tap water,7,,7,0.09
+sp,CaCl2,7,0.1,8,0.46
+sp,sodium phosphate,6,0.5,8,0.64
+sp,sodium phosphate,6.5,0.5,8,0.56
+sp,sodium phosphate,7,0.5,8,0.5
+sp,tris-hcl,7,1,8,0.31
+sp,tris-hcl,7.5,1,8,0.25
+sp,tris-hcl,8,1,8,0.16
+sp,deionized water,7,,8,0.1
+sp,tap water,7,,8,0.08
+sp,CaCl2,7,0.1,9,0.46
+sp,sodium phosphate,6,0.5,9,0.64
+sp,sodium phosphate,6.5,0.5,9,0.56
+sp,sodium phosphate,7,0.5,9,0.5
+sp,tris-hcl,7,1,9,0.31
+sp,tris-hcl,7.5,1,9,0.25
+sp,tris-hcl,8,1,9,0.16
+sp,deionized water,7,,9,0.1
+sp,tap water,7,,9,0.08
+Phormidium sp.,CaCl2,7,0.1,4,1.45
+Phormidium sp.,sodium phosphate,6,0.5,4,0.74
+Phormidium sp.,sodium phosphate,6.5,0.5,4,0.67
+Phormidium sp.,sodium phosphate,7,0.5,4,0.61
+Phormidium sp.,tris-hcl,7,1,4,0.39
+Phormidium sp.,tris-hcl,7.5,1,4,0.38
+Phormidium sp.,tris-hcl,8,1,4,0.34
+Phormidium sp.,deionized water,7,,4,0.69
+Phormidium sp.,tap water,7,,4,0.66
+Phormidium sp.,CaCl2,7,0.1,5,1.46
+Phormidium sp.,sodium phosphate,6,0.5,5,0.77
+Phormidium sp.,sodium phosphate,6.5,0.5,5,0.71
+Phormidium sp.,sodium phosphate,7,0.5,5,0.67
+Phormidium sp.,tris-hcl,7,1,5,0.37
+Phormidium sp.,tris-hcl,7.5,1,5,0.36
+Phormidium sp.,tris-hcl,8,1,5,0.32
+Phormidium sp.,deionized water,7,,5,0.72
+Phormidium sp.,tap water,7,,5,0.67
+Phormidium sp.,CaCl2,7,0.1,6,1.42
+Phormidium sp.,sodium phosphate,6,0.5,6,0.75
+Phormidium sp.,sodium phosphate,6.5,0.5,6,0.68
+Phormidium sp.,sodium phosphate,7,0.5,6,0.68
+Phormidium sp.,tris-hcl,7,1,6,0.36
+Phormidium sp.,tris-hcl,7.5,1,6,0.33
+Phormidium sp.,tris-hcl,8,1,6,0.3
+Phormidium sp.,deionized water,7,,6,0.73
+Phormidium sp.,tap water,7,,6,0.64
+Phormidium sp.,CaCl2,7,0.1,7,1.3
+Phormidium sp.,sodium phosphate,6,0.5,7,0.77
+Phormidium sp.,sodium phosphate,6.5,0.5,7,0.67
+Phormidium sp.,sodium phosphate,7,0.5,7,0.67
+Phormidium sp.,tris-hcl,7,1,7,0.31
+Phormidium sp.,tris-hcl,7.5,1,7,0.3
+Phormidium sp.,tris-hcl,8,1,7,0.26
+Phormidium sp.,deionized water,7,,7,0.71
+Phormidium sp.,tap water,7,,7,0.67
+Phormidium sp.,CaCl2,7,0.1,8,1.21
+Phormidium sp.,sodium phosphate,6,0.5,8,0.77
+Phormidium sp.,sodium phosphate,6.5,0.5,8,0.67
+Phormidium sp.,sodium phosphate,7,0.5,8,0.61
+Phormidium sp.,tris-hcl,7,1,8,0.29
+Phormidium sp.,tris-hcl,7.5,1,8,0.3
+Phormidium sp.,tris-hcl,8,1,8,0.24
+Phormidium sp.,deionized water,7,,8,0.67
+Phormidium sp.,tap water,7,,8,0.61
+Phormidium sp.,CaCl2,7,0.1,9,1.07
+Phormidium sp.,sodium phosphate,6,0.5,9,0.72
+Phormidium sp.,sodium phosphate,6.5,0.5,9,0.66
+Phormidium sp.,sodium phosphate,7,0.5,9,0.6
+Phormidium sp.,tris-hcl,7,1,9,0.26
+Phormidium sp.,tris-hcl,7.5,1,9,0.26
+Phormidium sp.,tris-hcl,8,1,9,0.23
+Phormidium sp.,deionized water,7,,9,0.66
+Phormidium sp.,tap water,7,,9,0.59
+Chlorogloeopsis fritschii,CaCl2,7,0.1,4,0.79
+Chlorogloeopsis fritschii,sodium phosphate,6,0.5,4,0.76
+Chlorogloeopsis fritschii,sodium phosphate,6.5,0.5,4,0.9
+Chlorogloeopsis fritschii,sodium phosphate,7,0.5,4,0.79
+Chlorogloeopsis fritschii,tris-hcl,7,1,4,0.39
+Chlorogloeopsis fritschii,tris-hcl,7.5,1,4,0.31
+Chlorogloeopsis fritschii,tris-hcl,8,1,4,0.22
+Chlorogloeopsis fritschii,deionized water,7,,4,0.76
+Chlorogloeopsis fritschii,CaCl2,7,0.1,5,0.72
+Chlorogloeopsis fritschii,sodium phosphate,6,0.5,5,0.96
+Chlorogloeopsis fritschii,sodium phosphate,6.5,0.5,5,1.01
+Chlorogloeopsis fritschii,sodium phosphate,7,0.5,5,0.88
+Chlorogloeopsis fritschii,tris-hcl,7,1,5,0.32
+Chlorogloeopsis fritschii,tris-hcl,7.5,1,5,0.25
+Chlorogloeopsis fritschii,tris-hcl,8,1,5,0.14
+Chlorogloeopsis fritschii,deionized water,7,,5,0.91
+Chlorogloeopsis fritschii,CaCl2,7,0.1,6,0.65
+Chlorogloeopsis fritschii,sodium phosphate,6,0.5,6,1.02
+Chlorogloeopsis fritschii,sodium phosphate,6.5,0.5,6,1.04
+Chlorogloeopsis fritschii,sodium phosphate,7,0.5,6,0.94
+Chlorogloeopsis fritschii,tris-hcl,7,1,6,0.25
+Chlorogloeopsis fritschii,tris-hcl,7.5,1,6,0.19
+Chlorogloeopsis fritschii,tris-hcl,8,1,6,0.14
+Chlorogloeopsis fritschii,deionized water,7,,6,0.97
+Chlorogloeopsis fritschii,CaCl2,7,0.1,7,0.57
+Chlorogloeopsis fritschii,sodium phosphate,6,0.5,7,1.03
+Chlorogloeopsis fritschii,sodium phosphate,6.5,0.5,7,1
+Chlorogloeopsis fritschii,sodium phosphate,7,0.5,7,0.94
+Chlorogloeopsis fritschii,tris-hcl,7,1,7,0.2
+Chlorogloeopsis fritschii,tris-hcl,7.5,1,7,0.15
+Chlorogloeopsis fritschii,tris-hcl,8,1,7,0.11
+Chlorogloeopsis fritschii,deionized water,7,,7,1.02
+Chlorogloeopsis fritschii,CaCl2,7,0.1,8,0.48
+Chlorogloeopsis fritschii,sodium phosphate,6,0.5,8,1.04
+Chlorogloeopsis fritschii,sodium phosphate,6.5,0.5,8,0.78
+Chlorogloeopsis fritschii,sodium phosphate,7,0.5,8,0.95
+Chlorogloeopsis fritschii,tris-hcl,7,1,8,0.16
+Chlorogloeopsis fritschii,tris-hcl,7.5,1,8,0.1
+Chlorogloeopsis fritschii,tris-hcl,8,1,8,0.09
+Chlorogloeopsis fritschii,deionized water,7,,8,1.01
+Chlorogloeopsis fritschii,CaCl2,7,0.1,9,0.39
+Chlorogloeopsis fritschii,sodium phosphate,6,0.5,9,0.99
+Chlorogloeopsis fritschii,sodium phosphate,6.5,0.5,9,0.7
+Chlorogloeopsis fritschii,sodium phosphate,7,0.5,9,0.92
+Chlorogloeopsis fritschii,tris-hcl,7,1,9,0.13
+Chlorogloeopsis fritschii,tris-hcl,7.5,1,9,0.1
+Chlorogloeopsis fritschii,tris-hcl,8,1,9,0.05
+Chlorogloeopsis fritschii,deionized water,7,,9,0.07
